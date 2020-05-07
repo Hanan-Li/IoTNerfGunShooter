@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     private Socket socket;
 
     private static final int SERVERPORT = 5000;
-    private static final String SERVER_IP = "100.64.10.95";
+    private static final String SERVER_IP = "RPi IP Address";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
