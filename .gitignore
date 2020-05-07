@@ -1,0 +1,15 @@
+*.iml
+*.gradle
+AndroidApp/local.properties
+AndroidApp/.idea/caches
+AndroidApp/.idea/libraries
+AndroidApp/.idea/modules.xml
+AndroidApp/.idea/workspace.xml
+AndroidApp/.idea/navEditor.xml
+AndroidApp/.idea/assetWizardSettings.xml
+AndroidApp/.DS_Store
+AndroidApp/build/
+AndroidApp/app/build/
+AndroidApp/captures
+AndroidApp/.externalNativeBuild
+AndroidApp/.cxx
